@@ -7,5 +7,5 @@ O projeto incorpora autenticação via Google através do NextAuth, faz uso do F
 Tela inicial
 ![image](https://github.com/alexrossoni/Next-tasks/assets/103969200/d921b209-ee0f-4751-9059-03dbf4b1db83)
 
-Em funcionamento
+Em funcionamento (clique no Gif)
 ![Vídeo-sem-título-‐-Feito-com-o-Clipchamp-_2_](https://github.com/alexrossoni/Next-tasks/assets/103969200/495a4701-f342-4b82-a4be-281ee9e7b271)
